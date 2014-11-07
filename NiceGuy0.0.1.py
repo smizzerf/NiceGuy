@@ -1,5 +1,5 @@
 #crap... I forgot how to python. This might take a few minutes...
-#Below is from Vouisor's collection https://github.com/voussoir/reddit along with the config and dictionary files
+#Below is from Vouisor's collection https://github.com/voussoir/reddit along with the dictionary files
 
 #/u/GoldenSights
 import praw # simple interface to the reddit API, also handles rate limiting of requests
